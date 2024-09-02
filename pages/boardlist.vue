@@ -3,10 +3,10 @@
 </script>
 
 <template>
-  <div class="w-full min-h-screen p-6 bg-teal-800 text-white">
+  <div class="w-full min-h-screen p-6 bg-stone-950 text-white">
     <Header/>
 
-    <slot/>
+    <ListView />
 
     <Footer/>
   </div>

@@ -6,7 +6,8 @@
   <header>
     <nav>
       <NuxtLink to="/"> Home </NuxtLink>
-      <NuxtLink to="/auth">Login</NuxtLink>
+      <NuxtLink to="/login">Login</NuxtLink>
+      <NuxtLink to="/boardlist">BoardList</NuxtLink>
       <NuxtLink to="/about"> about </NuxtLink>
     </nav>
   </header>
